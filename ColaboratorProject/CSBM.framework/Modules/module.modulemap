@@ -1,0 +1,6 @@
+framework module CSBM {
+  umbrella header "CSBM.h"
+
+  export *
+  module * { export * }
+}

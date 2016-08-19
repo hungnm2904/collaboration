@@ -1,0 +1,6 @@
+framework module CSBMUI {
+  umbrella header "CSBMUI.h"
+
+  export *
+  module * { export * }
+}
